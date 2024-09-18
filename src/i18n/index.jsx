@@ -21,7 +21,7 @@ const messages = {
   'it-it': itITMessages,
   pl: plMessages,
   'tr-tr': trTRMessages,
-  'bo': boMessages,
+  bo: boMessages,
   'zh-cn': zhcnMessages,
 };
 
